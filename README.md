@@ -3,6 +3,7 @@
 
  <h2>Used Technologies :- </h2>
 --------------------------------------
+<br>
 𝗠𝗼𝗻𝗴𝗼𝗗𝗕 :- It's a NoSQL DB.  <br>
 𝗘𝘅𝗽𝗿𝗲𝘀𝘀 𝗝𝘀 :- It's a Node Js Framework(Backend) <br>
 𝗥𝗲𝗮𝗰𝘁 𝗝𝘀 :- It's a JavaScript Library(Frontend) <br>
